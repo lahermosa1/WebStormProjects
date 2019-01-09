@@ -1,0 +1,5 @@
+Keyboard Events:
+Attribute	Value	Description
+onkeydown	script	Fires when a user is pressing a key
+onkeypress	script	Fires when a user presses a key
+onkeyup	    script	Fires when a user releases a key

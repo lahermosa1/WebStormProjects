@@ -1,0 +1,11 @@
+Mouse Events:
+Attribute	    Value	Description
+onclick	        script	Fires on a mouse click on the element
+ondblclick	    script	Fires on a mouse double-click on the element
+onmousedown	    script	Fires when a mouse button is pressed down on an element
+onmousemove	    script	Fires when the mouse pointer is moving while it is over an element
+onmouseout	    script	Fires when the mouse pointer moves out of an element
+onmouseover	    script	Fires when the mouse pointer moves over an element
+onmouseup	    script	Fires when a mouse button is released over an element
+onmousewheel	script	Deprecated. Use the onwheel attribute instead
+onwheel	        script	Fires when the mouse wheel rolls up or down over an element
