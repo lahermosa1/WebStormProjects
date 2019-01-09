@@ -6,7 +6,6 @@
 </head>
 <body>
 
-<button id = "button1" onclick="myFunction()">Click Me!</button>
 <!-- Step 1
         Give your button an id so that it can be used in a function later.-->
 <!-- Step 2
@@ -15,16 +14,19 @@
         Value:        script
         Description:  The script to be run on onclick
         Reference:    https://www.w3schools.com/tags/ev_onclick.asp -->
+<button id = "button1" onclick="myFunction()">Click Me!</button>
 
+
+<!-- Step 3
+        Define you function so that the program knows what to do.
+        In this example, the function changes the color of the
+        text to red -->
 <script>
     function myFunction() {
         document.getElementById("button1").style.color = "red";
     }
 </script>
-<!-- Step 3
-        Define you function so that the program knows what to do.
-        In this example, the function changes the color of the
-        text to red -->
+
 <!-- Step 4
         Move the mouse to upper right corner
         and run your code in Google Chrome -->
